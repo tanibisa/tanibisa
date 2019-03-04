@@ -1,2 +1,3 @@
-# tanibisa
-Tanbisa discussion + design
+# Tanibisa
+
+Repo for discussion & design of Tanibisa (https://tanibisa.com).

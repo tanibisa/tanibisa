@@ -2,6 +2,8 @@
 
 Repo for discussion & design of Tanibisa (https://tanibisa.com).
 
+Slide: https://docs.google.com/presentation/d/1NeAR2nbjRD1AEvh0rhyKi5SBIkdu7GstBpmnAO3cDe8
+
 ## Description
 
 Tanibisa is a portal where people can connect and meet together in real life to enjoy travel together, and get a joy!
